@@ -1,0 +1,11 @@
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/icudtl.dat
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/flutter_windows.dll
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/url_launcher_windows_plugin.dll
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/data/images/lucy.png
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Study/7semestr/ios/alignment/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
